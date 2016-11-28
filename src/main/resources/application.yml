@@ -1,0 +1,8 @@
+server:
+  port: 8088
+
+# rsrv-dubbo
+dubbo:
+  appName: hz-rsrv
+  zkAddress: zookeeper://205.209.173.28:2181
+  dubboVersion: 1.0.0
